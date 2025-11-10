@@ -179,3 +179,8 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+anaconda_projects/db/project_filebrowser.db
+.virtual_documents/Untitled.ipynb
+.virtual_documents/online-retail-data-clustering.ipynb
+.virtual_documents/
+anaconda_projects/
